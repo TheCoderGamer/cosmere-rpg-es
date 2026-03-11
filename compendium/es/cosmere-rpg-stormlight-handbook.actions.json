@@ -1,0 +1,101 @@
+{
+    "label": "Acciones",
+    "entries": {
+        "Common Actions Pack": {
+            "name": "Pack de Acciones Comunes",
+            "description": ""
+        },
+        "Enhance": {
+            "name": "Mejorar",
+            "description": ""
+        },
+        "Stormlight Actions Pack": {
+            "name": "Pack de Acciones de Tormenta de Luz",
+            "description": ""
+        },
+        "Dodge": {
+            "name": "Esquivar",
+            "description": ""
+        },
+        "Gain Advantage": {
+            "name": "Obtener Ventaja",
+            "description": ""
+        },
+        "Basic Actions Pack": {
+            "name": "Pack de Acciones Básicas",
+            "description": ""
+        },
+        "Avoid Danger": {
+            "name": "Evitar Peligro",
+            "description": ""
+        },
+        "Use A Skill": {
+            "name": "Usar una Habilidad",
+            "description": ""
+        },
+        "Drop": {
+            "name": "Soltar",
+            "description": ""
+        },
+        "Strike": {
+            "name": "Golpear",
+            "description": ""
+        },
+        "Unarmed Strike": {
+            "name": "Golpe Desarmado",
+            "description": ""
+        },
+        "Grapple": {
+            "name": "Aferrar",
+            "description": ""
+        },
+        "Ready": {
+            "name": "Prepararse",
+            "description": ""
+        },
+        "Brace": {
+            "name": "Afianzarse",
+            "description": ""
+        },
+        "Aid": {
+            "name": "Ayudar",
+            "description": ""
+        },
+        "Regenerate": {
+            "name": "Regenerar",
+            "description": ""
+        },
+        "Reactive Strike": {
+            "name": "Golpe Reactivo",
+            "description": ""
+        },
+        "Move": {
+            "name": "Mover",
+            "description": ""
+        },
+        "Recover": {
+            "name": "Recuperarse",
+            "description": ""
+        },
+        "Banter": {
+            "name": "Intercambiar Pullas",
+            "description": ""
+        },
+        "Interact": {
+            "name": "Interactuar",
+            "description": ""
+        },
+        "Breathe Stormlight": {
+            "name": "Respirar Tormenta de Luz",
+            "description": ""
+        },
+        "Shove": {
+            "name": "Empujar",
+            "description": ""
+        },
+        "Disengage": {
+            "name": "Desengancharse",
+            "description": ""
+        }
+    }
+}

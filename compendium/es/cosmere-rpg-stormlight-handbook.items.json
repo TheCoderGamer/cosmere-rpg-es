@@ -1,0 +1,729 @@
+{
+    "label": "Objetos",
+    "entries": {
+        "Sidesword": {
+            "name": "Espada de Lado",
+            "description": ""
+        },
+        "Clock Fabrial": {
+            "name": "Fabrial Reloj",
+            "description": ""
+        },
+        "Manacles": {
+            "name": "Grilletes",
+            "description": ""
+        },
+        "Mirror (handheld)": {
+            "name": "Espejo (de mano)",
+            "description": ""
+        },
+        "Aristocratic Lodging": {
+            "name": "Alojamiento Aristocrático",
+            "description": ""
+        },
+        "Emerald Chip": {
+            "name": "Astilla de Esmeralda",
+            "description": ""
+        },
+        "Musical Instrument": {
+            "name": "Instrumento Musical",
+            "description": ""
+        },
+        "Grappling Hook": {
+            "name": "Gancho de Escalar",
+            "description": ""
+        },
+        "Food (street, 1 day)": {
+            "name": "Comida (callejera, 1 día)",
+            "description": ""
+        },
+        "Scale": {
+            "name": "Balanza",
+            "description": ""
+        },
+        "Underworld Kit": {
+            "name": "Kit del Hampa",
+            "description": ""
+        },
+        "Pouch": {
+            "name": "Bolsa",
+            "description": ""
+        },
+        "Diamond Chip": {
+            "name": "Astilla de Diamante",
+            "description": ""
+        },
+        "Vial (glass)": {
+            "name": "Vial (de cristal)",
+            "description": ""
+        },
+        "Shortspear": {
+            "name": "Lanza Corta",
+            "description": ""
+        },
+        "Barrel": {
+            "name": "Barril",
+            "description": ""
+        },
+        "Heliodor Chip": {
+            "name": "Astilla de Heliodoro",
+            "description": ""
+        },
+        "Mace": {
+            "name": "Maza",
+            "description": ""
+        },
+        "Painrial (Amplifying/Numbing)": {
+            "name": "Fabrial de Dolor (Amplificador/Anestésico)",
+            "description": ""
+        },
+        "Tent (two-person)": {
+            "name": "Tienda (dos personas)",
+            "description": ""
+        },
+        "Chain": {
+            "name": "Cota de Malla",
+            "description": ""
+        },
+        "Greatsword": {
+            "name": "Espadón",
+            "description": ""
+        },
+        "Half-Shard": {
+            "name": "Media Esquirla",
+            "description": ""
+        },
+        "Chull": {
+            "name": "Chull",
+            "description": ""
+        },
+        "Wax (1 block)": {
+            "name": "Cera (1 bloque)",
+            "description": ""
+        },
+        "Lantern (oil)": {
+            "name": "Linterna (de aceite)",
+            "description": ""
+        },
+        "Waterskin": {
+            "name": "Odre de Agua",
+            "description": ""
+        },
+        "Jug": {
+            "name": "Jarro",
+            "description": ""
+        },
+        "Tuning Fork": {
+            "name": "Diapasón",
+            "description": ""
+        },
+        "Bindrial (Area)": {
+            "name": "Fabrial de Atadura (Área)",
+            "description": ""
+        },
+        "Chain (thin, 1 foot)": {
+            "name": "Cadena (fina, 30 cm)",
+            "description": ""
+        },
+        "Clothing (fine)": {
+            "name": "Ropa (fina)",
+            "description": ""
+        },
+        "Diamond Broam": {
+            "name": "Broam de Diamante",
+            "description": ""
+        },
+        "Ryshadium": {
+            "name": "Ryshadium",
+            "description": ""
+        },
+        "Net (fishing)": {
+            "name": "Red (de pesca)",
+            "description": ""
+        },
+        "Lockpick": {
+            "name": "Ganzúa",
+            "description": ""
+        },
+        "Alcohol (1 serving)": {
+            "name": "Alcohol (1 ración)",
+            "description": ""
+        },
+        "Chain (thick, 10 feet)": {
+            "name": "Cadena (gruesa, 3 metros)",
+            "description": ""
+        },
+        "Whetstone": {
+            "name": "Piedra de Afilar",
+            "description": ""
+        },
+        "Axe": {
+            "name": "Hacha",
+            "description": ""
+        },
+        "Ink (1-ounce bottle)": {
+            "name": "Tinta (frasco de 30 ml)",
+            "description": ""
+        },
+        "Alcohol (bottle of Horneater white)": {
+            "name": "Alcohol (botella de blanco Comerroca)",
+            "description": ""
+        },
+        "Painrial (numbing)": {
+            "name": "Fabrial de Dolor (Anestésico)",
+            "description": ""
+        },
+        "Courtier Kit": {
+            "name": "Kit de Cortesano",
+            "description": ""
+        },
+        "Horse": {
+            "name": "Caballo",
+            "description": ""
+        },
+        "Prisoner Kit": {
+            "name": "Kit de Prisionero",
+            "description": ""
+        },
+        "Food (ration, 1 day)": {
+            "name": "Comida (ración, 1 día)",
+            "description": ""
+        },
+        "Amethyst Mark": {
+            "name": "Marca de Amatista",
+            "description": ""
+        },
+        "Alcohol (bottle)": {
+            "name": "Alcohol (botella)",
+            "description": ""
+        },
+        "Rope (50 feet)": {
+            "name": "Cuerda (15 metros)",
+            "description": ""
+        },
+        "Improvised Weapon (Light)": {
+            "name": "Arma Improvisada (Ligera)",
+            "description": ""
+        },
+        "Garnet Mark": {
+            "name": "Marca de Granate",
+            "description": ""
+        },
+        "Half Plate": {
+            "name": "Media Armadura",
+            "description": ""
+        },
+        "Attractor": {
+            "name": "Atractor",
+            "description": ""
+        },
+        "Rapier": {
+            "name": "Estoque",
+            "description": ""
+        },
+        "Academic Kit": {
+            "name": "Kit Académico",
+            "description": ""
+        },
+        "Lightrial": {
+            "name": "Fabrial de Luz",
+            "description": ""
+        },
+        "Painrial (amplifying)": {
+            "name": "Fabrial de Dolor (Amplificador)",
+            "description": ""
+        },
+        "Ink Pen": {
+            "name": "Pluma de Tinta",
+            "description": ""
+        },
+        "Heatrial": {
+            "name": "Fabrial de Calor",
+            "description": ""
+        },
+        "Emerald Mark": {
+            "name": "Marca de Esmeralda",
+            "description": ""
+        },
+        "Spanreed (Pair)": {
+            "name": "Spanreed (Par)",
+            "description": ""
+        },
+        "Bottle (crem)": {
+            "name": "Botella (de crem)",
+            "description": ""
+        },
+        "Shardplate": {
+            "name": "Platearmadura",
+            "description": ""
+        },
+        "Heliodor Mark": {
+            "name": "Marca de Heliodoro",
+            "description": ""
+        },
+        "Merchant vessel": {
+            "name": "Barco Mercante",
+            "description": ""
+        },
+        "Armor Augmenter": {
+            "name": "Aumentador de Armadura",
+            "description": ""
+        },
+        "Cultivator": {
+            "name": "Cultivador",
+            "description": ""
+        },
+        "Hammer": {
+            "name": "Martillo",
+            "description": ""
+        },
+        "Sapphire Broam": {
+            "name": "Broam de Zafiro",
+            "description": ""
+        },
+        "Shardplate (Radiant)": {
+            "name": "Platearmadura (Radiante)",
+            "description": ""
+        },
+        "Amethyst Chip": {
+            "name": "Astilla de Amatista",
+            "description": ""
+        },
+        "Cremrial": {
+            "name": "Fabrial de Crem",
+            "description": ""
+        },
+        "Pitcher": {
+            "name": "Jarra",
+            "description": ""
+        },
+        "Net (hunting)": {
+            "name": "Red (de caza)",
+            "description": ""
+        },
+        "Comfortable Lodging": {
+            "name": "Alojamiento Confortable",
+            "description": ""
+        },
+        "Poison (effectual, 1 dose)": {
+            "name": "Veneno (efectivo, 1 dosis)",
+            "description": ""
+        },
+        "Garnet Broam": {
+            "name": "Broam de Granate",
+            "description": ""
+        },
+        "Diamond Mark": {
+            "name": "Marca de Diamante",
+            "description": ""
+        },
+        "Treatment (medical, 1 dose)": {
+            "name": "Tratamiento (médico, 1 dosis)",
+            "description": ""
+        },
+        "Radiant Spren": {
+            "name": "Spren Radiante",
+            "description": ""
+        },
+        "Uniform": {
+            "name": "Uniforme",
+            "description": ""
+        },
+        "Clothing (common)": {
+            "name": "Ropa (común)",
+            "description": ""
+        },
+        "Shovel": {
+            "name": "Pala",
+            "description": ""
+        },
+        "Ruby Mark": {
+            "name": "Marca de Rubí",
+            "description": ""
+        },
+        "Crossbow": {
+            "name": "Ballesta",
+            "description": ""
+        },
+        "Crowbar": {
+            "name": "Palanca",
+            "description": ""
+        },
+        "Shardblade": {
+            "name": "Hoja de Esquirla",
+            "description": ""
+        },
+        "Case (leather)": {
+            "name": "Estuche (de cuero)",
+            "description": ""
+        },
+        "Suppressor": {
+            "name": "Supresor",
+            "description": ""
+        },
+        "Projectile": {
+            "name": "Proyectil",
+            "description": ""
+        },
+        "Shortbow": {
+            "name": "Arco Corto",
+            "description": ""
+        },
+        "Compressor": {
+            "name": "Compresor",
+            "description": ""
+        },
+        "Anesthetic (5 doses)": {
+            "name": "Anestésico (5 dosis)",
+            "description": ""
+        },
+        "Warhammer": {
+            "name": "Martillo de Guerra",
+            "description": ""
+        },
+        "Candle": {
+            "name": "Vela",
+            "description": ""
+        },
+        "Blanket": {
+            "name": "Manta",
+            "description": ""
+        },
+        "Surge Fabrial": {
+            "name": "Fabrial de Surgimiento",
+            "description": ""
+        },
+        "Flask": {
+            "name": "Frasco",
+            "description": ""
+        },
+        "Book (reference)": {
+            "name": "Libro (de referencia)",
+            "description": ""
+        },
+        "Zircon Mark": {
+            "name": "Marca de Circón",
+            "description": ""
+        },
+        "Amethyst Broam": {
+            "name": "Broam de Amatista",
+            "description": ""
+        },
+        "Oil (1 flask)": {
+            "name": "Aceite (1 frasco)",
+            "description": ""
+        },
+        "Lantern (sphere)": {
+            "name": "Linterna (de esfera)",
+            "description": ""
+        },
+        "Noble Patron": {
+            "name": "Patrón Noble",
+            "description": ""
+        },
+        "Chest": {
+            "name": "Cofre",
+            "description": ""
+        },
+        "Perfume (1 vial)": {
+            "name": "Perfume (1 vial)",
+            "description": ""
+        },
+        "Smokestone Chip": {
+            "name": "Astilla de Piedrahumo",
+            "description": ""
+        },
+        "Accelerator": {
+            "name": "Acelerador",
+            "description": ""
+        },
+        "Leather": {
+            "name": "Cuero",
+            "description": ""
+        },
+        "Smokestone Broam": {
+            "name": "Broam de Piedrahumo",
+            "description": ""
+        },
+        "Ruby Chip": {
+            "name": "Astilla de Rubí",
+            "description": ""
+        },
+        "Bottle (glass)": {
+            "name": "Botella (de cristal)",
+            "description": ""
+        },
+        "Longspear": {
+            "name": "Lanza Larga",
+            "description": ""
+        },
+        "Pick (mining)": {
+            "name": "Pico (de minería)",
+            "description": ""
+        },
+        "Shield": {
+            "name": "Escudo",
+            "description": ""
+        },
+        "Lock and Key": {
+            "name": "Candado y Llave",
+            "description": ""
+        },
+        "Backpack": {
+            "name": "Mochila",
+            "description": ""
+        },
+        "Ruby Broam": {
+            "name": "Broam de Rubí",
+            "description": ""
+        },
+        "Sack": {
+            "name": "Saco",
+            "description": ""
+        },
+        "Shardblade (Radiant)": {
+            "name": "Hoja de Esquirla (Radiante)",
+            "description": ""
+        },
+        "Grandbow": {
+            "name": "Gran Arco",
+            "description": ""
+        },
+        "Disruptor": {
+            "name": "Disruptor",
+            "description": ""
+        },
+        "Alerter": {
+            "name": "Alertador",
+            "description": ""
+        },
+        "Garnet Chip": {
+            "name": "Astilla de Granate",
+            "description": ""
+        },
+        "Drainer": {
+            "name": "Drenador",
+            "description": ""
+        },
+        "Antiseptic (weak, 5 doses)": {
+            "name": "Antiséptico (débil, 5 dosis)",
+            "description": ""
+        },
+        "Wealthy Lodging": {
+            "name": "Alojamiento Lujoso",
+            "description": ""
+        },
+        "Surgical Supplies": {
+            "name": "Material Quirúrgico",
+            "description": ""
+        },
+        "Zircon Broam": {
+            "name": "Broam de Circón",
+            "description": ""
+        },
+        "Hammer (handheld)": {
+            "name": "Martillo (de mano)",
+            "description": ""
+        },
+        "Topaz Chip": {
+            "name": "Astilla de Topacio",
+            "description": ""
+        },
+        "Poison (weak, 1 dose)": {
+            "name": "Veneno (débil, 1 dosis)",
+            "description": ""
+        },
+        "Knife": {
+            "name": "Cuchillo",
+            "description": ""
+        },
+        "Soulcaster": {
+            "name": "Forjaalmas",
+            "description": ""
+        },
+        "Ear Trumpet": {
+            "name": "Trompetilla",
+            "description": ""
+        },
+        "Chull cart": {
+            "name": "Carro de Chull",
+            "description": ""
+        },
+        "Smokestone Mark": {
+            "name": "Marca de Piedrahumo",
+            "description": ""
+        },
+        "Paper or Parchment (1 sheet)": {
+            "name": "Papel o Pergamino (1 hoja)",
+            "description": ""
+        },
+        "Poison (potent, 1 dose)": {
+            "name": "Veneno (potente, 1 dosis)",
+            "description": ""
+        },
+        "Military Kit": {
+            "name": "Kit Militar",
+            "description": ""
+        },
+        "Liferial": {
+            "name": "Fabrial de Vida",
+            "description": ""
+        },
+        "Sapphire Chip": {
+            "name": "Astilla de Zafiro",
+            "description": ""
+        },
+        "Clothing (ragged)": {
+            "name": "Ropa (harapienta)",
+            "description": ""
+        },
+        "Ascender": {
+            "name": "Ascensor",
+            "description": ""
+        },
+        "Emerald Broam": {
+            "name": "Broam de Esmeralda",
+            "description": ""
+        },
+        "Sling": {
+            "name": "Honda",
+            "description": ""
+        },
+        "Flint and Steel": {
+            "name": "Pedernal y Acero",
+            "description": ""
+        },
+        "Emotion Bracelet": {
+            "name": "Brazalete de Emociones",
+            "description": ""
+        },
+        "Tankard": {
+            "name": "Jarra de Cerveza",
+            "description": ""
+        },
+        "Freechair": {
+            "name": "Silla Libre",
+            "description": ""
+        },
+        "Heliodor Broam": {
+            "name": "Broam de Heliodoro",
+            "description": ""
+        },
+        "Rowboat": {
+            "name": "Bote de Remos",
+            "description": ""
+        },
+        "Unencased Gem (infused)": {
+            "name": "Gema sin Engastar (infundida)",
+            "description": ""
+        },
+        "Ladder (10-foot)": {
+            "name": "Escalera (3 metros)",
+            "description": ""
+        },
+        "Bindrial (Self)": {
+            "name": "Fabrial de Atadura (Personal)",
+            "description": ""
+        },
+        "Artisan Kit": {
+            "name": "Kit de Artesano",
+            "description": ""
+        },
+        "Modest Lodging": {
+            "name": "Alojamiento Modesto",
+            "description": ""
+        },
+        "Stormshelter": {
+            "name": "Refugio de Tormenta",
+            "description": ""
+        },
+        "Warship": {
+            "name": "Buque de Guerra",
+            "description": ""
+        },
+        "Soap": {
+            "name": "Jabón",
+            "description": ""
+        },
+        "Improvised Weapon (Heavy)": {
+            "name": "Arma Improvisada (Pesada)",
+            "description": ""
+        },
+        "Magnifying Lens": {
+            "name": "Lupa",
+            "description": ""
+        },
+        "Pulley system": {
+            "name": "Sistema de Poleas",
+            "description": ""
+        },
+        "Antiseptic (potent, 5 doses)": {
+            "name": "Antiséptico (potente, 5 dosis)",
+            "description": ""
+        },
+        "Pot (iron)": {
+            "name": "Olla (de hierro)",
+            "description": ""
+        },
+        "Full Plate": {
+            "name": "Armadura Completa",
+            "description": ""
+        },
+        "Spyglass": {
+            "name": "Catalejo",
+            "description": ""
+        },
+        "Topaz Mark": {
+            "name": "Marca de Topacio",
+            "description": ""
+        },
+        "Poleaxe": {
+            "name": "Hacha de Asta",
+            "description": ""
+        },
+        "Longbow": {
+            "name": "Arco Largo",
+            "description": ""
+        },
+        "Sapphire Mark": {
+            "name": "Marca de Zafiro",
+            "description": ""
+        },
+        "Food (fine, 1 day)": {
+            "name": "Comida (fina, 1 día)",
+            "description": ""
+        },
+        "Javelin": {
+            "name": "Jabalina",
+            "description": ""
+        },
+        "Bucket": {
+            "name": "Cubo",
+            "description": ""
+        },
+        "Breastplate": {
+            "name": "Peto",
+            "description": ""
+        },
+        "Zircon Chip": {
+            "name": "Astilla de Circón",
+            "description": ""
+        },
+        "Repeller": {
+            "name": "Repeledor",
+            "description": ""
+        },
+        "Longsword": {
+            "name": "Espada Larga",
+            "description": ""
+        },
+        "Topaz Broam": {
+            "name": "Broam de Topacio",
+            "description": ""
+        },
+        "Staff": {
+            "name": "Bastón",
+            "description": ""
+        }
+    }
+}

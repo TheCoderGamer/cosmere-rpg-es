@@ -1,0 +1,49 @@
+{
+    "label": "Compañeros Animales",
+    "entries": {
+        "Mink": {
+            "name": "Visón",
+            "description": ""
+        },
+        "Axehind": {
+            "name": "Axehind",
+            "description": ""
+        },
+        "Chull": {
+            "name": "Chull",
+            "description": ""
+        },
+        "Horse": {
+            "name": "Caballo",
+            "description": ""
+        },
+        "Larkin (Companion)": {
+            "name": "Larkin (Compañero)",
+            "description": ""
+        },
+        "Poison Cremling": {
+            "name": "Cremling Venenoso",
+            "description": ""
+        },
+        "Sarpenth": {
+            "name": "Sarpenth",
+            "description": ""
+        },
+        "Axehound": {
+            "name": "Axehound",
+            "description": ""
+        },
+        "Greater Larkin (Companion)": {
+            "name": "Gran Larkin (Compañero)",
+            "description": ""
+        },
+        "Skyeel": {
+            "name": "Anguila del Cielo",
+            "description": ""
+        },
+        "Hunting Chicken (Hawk)": {
+            "name": "Pollo de Caza (Halcón)",
+            "description": ""
+        }
+    }
+}

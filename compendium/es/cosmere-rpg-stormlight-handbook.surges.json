@@ -1,0 +1,389 @@
+{
+    "label": "Surgimientos",
+    "entries": {
+        "Reliable Progression": {
+            "name": "Progresión Fiable",
+            "description": ""
+        },
+        "Adhesive Trap": {
+            "name": "Trampa Adhesiva",
+            "description": ""
+        },
+        "Realmic Step": {
+            "name": "Paso Realmático",
+            "description": ""
+        },
+        "Abrasion": {
+            "name": "Abrasión",
+            "description": ""
+        },
+        "Stormlight Reclamation": {
+            "name": "Recuperación de Tormenta de Luz",
+            "description": ""
+        },
+        "Cloth Mastery": {
+            "name": "Maestría Textil",
+            "description": ""
+        },
+        "Clothsmith": {
+            "name": "Tejedor",
+            "description": ""
+        },
+        "Bloodcasting": {
+            "name": "Forjado de Sangre",
+            "description": ""
+        },
+        "Distant Surgebinding": {
+            "name": "Surgvinculación a Distancia",
+            "description": ""
+        },
+        "Gravitational Slam": {
+            "name": "Golpe Gravitacional",
+            "description": ""
+        },
+        "Elsegate": {
+            "name": "Puerta Ajena",
+            "description": ""
+        },
+        "Gravitation Talents": {
+            "name": "Talentos de Gravitación",
+            "description": ""
+        },
+        "Slippery Target": {
+            "name": "Objetivo Escurridizo",
+            "description": ""
+        },
+        "Master of the Skies": {
+            "name": "Maestro de los Cielos",
+            "description": ""
+        },
+        "Shared Transportation": {
+            "name": "Transporte Compartido",
+            "description": ""
+        },
+        "Spiritual Illumination": {
+            "name": "Iluminación Espiritual",
+            "description": ""
+        },
+        "Endless Illusions": {
+            "name": "Ilusiones Infinitas",
+            "description": ""
+        },
+        "Persistent Transformation": {
+            "name": "Transformación Persistente",
+            "description": ""
+        },
+        "True Stoneshaping": {
+            "name": "Modelado de Piedra Verdadero",
+            "description": ""
+        },
+        "Painful Truth": {
+            "name": "Verdad Dolorosa",
+            "description": ""
+        },
+        "Reverse Abrasion": {
+            "name": "Abrasión Inversa",
+            "description": ""
+        },
+        "Slick Combatant": {
+            "name": "Combatiente Escurridizo",
+            "description": ""
+        },
+        "Illumination": {
+            "name": "Iluminación",
+            "description": ""
+        },
+        "Lingering Lightweavings": {
+            "name": "Tejidos de Luz Persistentes",
+            "description": ""
+        },
+        "Tension Talents": {
+            "name": "Talentos de Tensión",
+            "description": ""
+        },
+        "Gout of Flame": {
+            "name": "Chorro de Llama",
+            "description": ""
+        },
+        "Overgrowth": {
+            "name": "Crecimiento Excesivo",
+            "description": ""
+        },
+        "Extended Tension": {
+            "name": "Tensión Extendida",
+            "description": ""
+        },
+        "Illumination Talents": {
+            "name": "Talentos de Iluminación",
+            "description": ""
+        },
+        "Tunneling": {
+            "name": "Tunelado",
+            "description": ""
+        },
+        "Through the Stone": {
+            "name": "A Través de la Piedra",
+            "description": ""
+        },
+        "Unbound Cohesion": {
+            "name": "Cohesión Desatada",
+            "description": ""
+        },
+        "Transformation Talents": {
+            "name": "Talentos de Transformación",
+            "description": ""
+        },
+        "Living Adhesion": {
+            "name": "Adhesión Viviente",
+            "description": ""
+        },
+        "Rigged Weaponry": {
+            "name": "Armamento Trampeado",
+            "description": ""
+        },
+        "Binding Strike": {
+            "name": "Golpe Vinculante",
+            "description": ""
+        },
+        "Living Soulcasting": {
+            "name": "Forjado de Almas Viviente",
+            "description": ""
+        },
+        "Cohesion": {
+            "name": "Cohesión",
+            "description": ""
+        },
+        "Soulcast Parry": {
+            "name": "Parada Forjada",
+            "description": ""
+        },
+        "Elsecalling": {
+            "name": "Llamada Ajena",
+            "description": ""
+        },
+        "Progression": {
+            "name": "Progresión",
+            "description": ""
+        },
+        "Realmic Evasion": {
+            "name": "Evasión Realmática",
+            "description": ""
+        },
+        "Cohesion Talents": {
+            "name": "Talentos de Cohesión",
+            "description": ""
+        },
+        "Smooth Operator": {
+            "name": "Operador Fluido",
+            "description": ""
+        },
+        "Flamecasting": {
+            "name": "Forjado de Llama",
+            "description": ""
+        },
+        "Lashing Shot": {
+            "name": "Disparo de Atadura",
+            "description": ""
+        },
+        "Cognitive Farsight": {
+            "name": "Visión Lejana Cognitiva",
+            "description": ""
+        },
+        "Swift Regeneration": {
+            "name": "Regeneración Veloz",
+            "description": ""
+        },
+        "Gravitation": {
+            "name": "Gravitación",
+            "description": ""
+        },
+        "Hardened Defense": {
+            "name": "Defensa Endurecida",
+            "description": ""
+        },
+        "Explosive Growth": {
+            "name": "Crecimiento Explosivo",
+            "description": ""
+        },
+        "Aerial Squadron": {
+            "name": "Escuadrón Aéreo",
+            "description": ""
+        },
+        "Multiple Lashings": {
+            "name": "Ataduras Múltiples",
+            "description": ""
+        },
+        "Surface Tension": {
+            "name": "Tensión Superficial",
+            "description": ""
+        },
+        "Font of Life": {
+            "name": "Fuente de Vida",
+            "description": ""
+        },
+        "Injury Regrowth": {
+            "name": "Regeneración de Heridas",
+            "description": ""
+        },
+        "Inescapable Spark": {
+            "name": "Chispa Ineludible",
+            "description": ""
+        },
+        "Adhesion": {
+            "name": "Adhesión",
+            "description": ""
+        },
+        "Adhesion Talents": {
+            "name": "Talentos de Adhesión",
+            "description": ""
+        },
+        "Extended Regrowth": {
+            "name": "Regeneración Extendida",
+            "description": ""
+        },
+        "Binding Shot": {
+            "name": "Disparo Vinculante",
+            "description": ""
+        },
+        "Abrasion Talents": {
+            "name": "Talentos de Abrasión",
+            "description": ""
+        },
+        "Division Talents": {
+            "name": "Talentos de División",
+            "description": ""
+        },
+        "Disorienting Flash": {
+            "name": "Destello Desorientador",
+            "description": ""
+        },
+        "Realmwalker": {
+            "name": "Caminante Realmático",
+            "description": ""
+        },
+        "Multiplicative Lightweaving": {
+            "name": "Tejido de Luz Multiplicativo",
+            "description": ""
+        },
+        "Tension": {
+            "name": "Tensión",
+            "description": ""
+        },
+        "Flowing Earth": {
+            "name": "Tierra Fluyente",
+            "description": ""
+        },
+        "Division": {
+            "name": "División",
+            "description": ""
+        },
+        "Stone Spear": {
+            "name": "Lanza de Piedra",
+            "description": ""
+        },
+        "Igniting Division": {
+            "name": "División Incendiaria",
+            "description": ""
+        },
+        "Transportation Talents": {
+            "name": "Talentos de Transporte",
+            "description": ""
+        },
+        "Superior Bond": {
+            "name": "Vínculo Superior",
+            "description": ""
+        },
+        "Spark Sending": {
+            "name": "Envío de Chispa",
+            "description": ""
+        },
+        "Sinkhole": {
+            "name": "Socavón",
+            "description": ""
+        },
+        "Fine Control": {
+            "name": "Control Fino",
+            "description": ""
+        },
+        "Unleashed Entropy": {
+            "name": "Entropía Desatada",
+            "description": ""
+        },
+        "Frictionless Motion": {
+            "name": "Movimiento sin Fricción",
+            "description": ""
+        },
+        "Memories of Stone": {
+            "name": "Memorias de Piedra",
+            "description": ""
+        },
+        "Group Flight": {
+            "name": "Vuelo en Grupo",
+            "description": ""
+        },
+        "Devastating Division": {
+            "name": "División Devastadora",
+            "description": ""
+        },
+        "Soulcast Defense": {
+            "name": "Defensa Forjada",
+            "description": ""
+        },
+        "Progression Talents": {
+            "name": "Talentos de Progresión",
+            "description": ""
+        },
+        "Distracting Illusion": {
+            "name": "Ilusión Distractora",
+            "description": ""
+        },
+        "From the Brink": {
+            "name": "Desde el Abismo",
+            "description": ""
+        },
+        "Tension Parry": {
+            "name": "Parada de Tensión",
+            "description": ""
+        },
+        "Extended Adhesion": {
+            "name": "Adhesión Extendida",
+            "description": ""
+        },
+        "Eroding Escape": {
+            "name": "Escape Erosivo",
+            "description": ""
+        },
+        "Transportation": {
+            "name": "Transporte",
+            "description": ""
+        },
+        "Transformation": {
+            "name": "Transformación",
+            "description": ""
+        },
+        "Stable Flight": {
+            "name": "Vuelo Estable",
+            "description": ""
+        },
+        "Expansive Transmuter": {
+            "name": "Transmutador Expansivo",
+            "description": ""
+        },
+        "Cognitive Vision": {
+            "name": "Visión Cognitiva",
+            "description": ""
+        },
+        "Graceful Skating": {
+            "name": "Deslizamiento Grácil",
+            "description": ""
+        },
+        "Flying Ace": {
+            "name": "As del Vuelo",
+            "description": ""
+        },
+        "Bodily Decay": {
+            "name": "Decadencia Corporal",
+            "description": ""
+        }
+    }
+}

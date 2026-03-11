@@ -1,0 +1,185 @@
+{
+    "label": "Características Comunes de Adversarios",
+    "entries": {
+        "Test Assistance (Reaction)": {
+            "name": "Asistencia en Prueba (Reacción)",
+            "description": ""
+        },
+        "Perceivability": {
+            "name": "Perceptibilidad",
+            "description": ""
+        },
+        "Skyborn": {
+            "name": "Nacido del Cielo",
+            "description": ""
+        },
+        "On the Hunt": {
+            "name": "En la Caza",
+            "description": ""
+        },
+        "Physical Interaction": {
+            "name": "Interacción Física",
+            "description": ""
+        },
+        "Test Assistance (Free Action)": {
+            "name": "Asistencia en Prueba (Acción Libre)",
+            "description": ""
+        },
+        "Charge": {
+            "name": "Cargar",
+            "description": ""
+        },
+        "Swimming": {
+            "name": "Natación",
+            "description": ""
+        },
+        "Minion": {
+            "name": "Secuaz",
+            "description": ""
+        },
+        "Carapace": {
+            "name": "Caparazón",
+            "description": ""
+        },
+        "Pickpocket": {
+            "name": "Carterista",
+            "description": ""
+        },
+        "Oath Encouragement (Reaction)": {
+            "name": "Aliento de Juramento (Reacción)",
+            "description": ""
+        },
+        "Oath Encouragement (Free Action)": {
+            "name": "Aliento de Juramento (Acción Libre)",
+            "description": ""
+        },
+        "Flight": {
+            "name": "Vuelo",
+            "description": ""
+        },
+        "Plodding Pace": {
+            "name": "Paso Lento",
+            "description": ""
+        },
+        "Language Decipering": {
+            "name": "Descifrado de Idiomas",
+            "description": ""
+        },
+        "Dive Bomb": {
+            "name": "Bombardeo en Picado",
+            "description": ""
+        },
+        "Nimble": {
+            "name": "Ágil",
+            "description": ""
+        },
+        "Enhanced Senses": {
+            "name": "Sentidos Mejorados",
+            "description": ""
+        },
+        "Skilled": {
+            "name": "Experto",
+            "description": ""
+        },
+        "Aquatic": {
+            "name": "Acuático",
+            "description": ""
+        },
+        "Covert Scouting": {
+            "name": "Exploración Encubierta",
+            "description": ""
+        },
+        "Push Object": {
+            "name": "Empujar Objeto",
+            "description": ""
+        },
+        "Hearty": {
+            "name": "Robusto",
+            "description": ""
+        },
+        "Sleek": {
+            "name": "Esbelto",
+            "description": ""
+        },
+        "Beast of Burden": {
+            "name": "Bestia de Carga",
+            "description": ""
+        },
+        "Strike: Bite": {
+            "name": "Golpe: Mordisco",
+            "description": ""
+        },
+        "Strike: Pincer": {
+            "name": "Golpe: Pinza",
+            "description": ""
+        },
+        "Invested Enhancement": {
+            "name": "Mejora Investida",
+            "description": ""
+        },
+        "Sudden Warning": {
+            "name": "Advertencia Repentina",
+            "description": ""
+        },
+        "Furtive": {
+            "name": "Furtivo",
+            "description": ""
+        },
+        "Drain Light": {
+            "name": "Drenar Luz",
+            "description": ""
+        },
+        "Fleet": {
+            "name": "Veloz",
+            "description": ""
+        },
+        "Climber": {
+            "name": "Trepador",
+            "description": ""
+        },
+        "Invested Healing": {
+            "name": "Sanación Investida",
+            "description": ""
+        },
+        "Translation": {
+            "name": "Traducción",
+            "description": ""
+        },
+        "Jumper": {
+            "name": "Saltador",
+            "description": ""
+        },
+        "Pack Instincts": {
+            "name": "Instintos de Manada",
+            "description": ""
+        },
+        "Defense Curl": {
+            "name": "Enroscamiento Defensivo",
+            "description": ""
+        },
+        "Rhythmic Communication": {
+            "name": "Comunicación Rítmica",
+            "description": ""
+        },
+        "Slippery": {
+            "name": "Escurridizo",
+            "description": ""
+        },
+        "Spry": {
+            "name": "Vivaz",
+            "description": ""
+        },
+        "Evasive": {
+            "name": "Evasivo",
+            "description": ""
+        },
+        "Weak Wings": {
+            "name": "Alas Débiles",
+            "description": ""
+        },
+        "Strike: Hooves": {
+            "name": "Golpe: Cascos",
+            "description": ""
+        }
+    }
+}

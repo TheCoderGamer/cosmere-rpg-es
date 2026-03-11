@@ -1,0 +1,433 @@
+{
+    "label": "Caminos Radiantes",
+    "entries": {
+        "Dustbringer (Canon)": {
+            "name": "Destructor de Polvo (Canon)",
+            "description": ""
+        },
+        "Speak the Third Ideal": {
+            "name": "Pronunciar el Tercer Ideal",
+            "description": ""
+        },
+        "Invested": {
+            "name": "Investido",
+            "description": ""
+        },
+        "Second Ideal (Elsecaller)": {
+            "name": "Segundo Ideal (Llamador Ajeno)",
+            "description": ""
+        },
+        "Lightweaver": {
+            "name": "Tejedor de Luz",
+            "description": ""
+        },
+        "Second Ideal (Nale Skybreaker)": {
+            "name": "Segundo Ideal (Rompedor de Cielo de Nale)",
+            "description": ""
+        },
+        "Gravitation Talents": {
+            "name": "Talentos de Gravitación",
+            "description": ""
+        },
+        "Speak the Fourth Ideal": {
+            "name": "Pronunciar el Cuarto Ideal",
+            "description": ""
+        },
+        "Deepened Bond": {
+            "name": "Vínculo Profundizado",
+            "description": ""
+        },
+        "Division Talents": {
+            "name": "Talentos de División",
+            "description": ""
+        },
+        "Take Squire (Stoneward)": {
+            "name": "Tomar Escudero (Guardián de Piedra)",
+            "description": ""
+        },
+        "First Ideal (Dustbringer)": {
+            "name": "Primer Ideal (Destructor de Polvo)",
+            "description": ""
+        },
+        "Search the Past": {
+            "name": "Buscar en el Pasado",
+            "description": ""
+        },
+        "Fourth Ideal (Dustbringer)": {
+            "name": "Cuarto Ideal (Destructor de Polvo)",
+            "description": ""
+        },
+        "Spiritual Cohesion": {
+            "name": "Cohesión Espiritual",
+            "description": ""
+        },
+        "Dustbringer Talents": {
+            "name": "Talentos de Destructor de Polvo",
+            "description": ""
+        },
+        "Dustbringer": {
+            "name": "Destructor de Polvo",
+            "description": ""
+        },
+        "Second Ideal (Skybreaker)": {
+            "name": "Segundo Ideal (Rompedor de Cielo)",
+            "description": ""
+        },
+        "Truthwatcher Talents": {
+            "name": "Talentos de Observador de Verdad",
+            "description": ""
+        },
+        "Highspren Bond": {
+            "name": "Vínculo con Altospren",
+            "description": ""
+        },
+        "Fourth Ideal (Lightweaver)": {
+            "name": "Cuarto Ideal (Tejedor de Luz)",
+            "description": ""
+        },
+        "Edgedancer's Grace": {
+            "name": "Gracia del Bailarín del Filo",
+            "description": ""
+        },
+        "Elsecaller": {
+            "name": "Llamador Ajeno",
+            "description": ""
+        },
+        "Cryptic Bond": {
+            "name": "Vínculo Críptico",
+            "description": ""
+        },
+        "Fourth Ideal (Skybreaker)": {
+            "name": "Cuarto Ideal (Rompedor de Cielo)",
+            "description": ""
+        },
+        "Speak the First Ideal": {
+            "name": "Pronunciar el Primer Ideal",
+            "description": ""
+        },
+        "Soaring Destruction": {
+            "name": "Destrucción en Vuelo",
+            "description": ""
+        },
+        "Third Ideal (Skybreaker)": {
+            "name": "Tercer Ideal (Rompedor de Cielo)",
+            "description": ""
+        },
+        "Third Ideal (Nale Skybreaker)": {
+            "name": "Tercer Ideal (Rompedor de Cielo de Nale)",
+            "description": ""
+        },
+        "Honorspren Bond": {
+            "name": "Vínculo con Honorspren",
+            "description": ""
+        },
+        "First Ideal (Canon Dustbringer)": {
+            "name": "Primer Ideal (Destructor de Polvo Canon)",
+            "description": ""
+        },
+        "Fourth Ideal (Windrunner)": {
+            "name": "Cuarto Ideal (Corredor del Viento)",
+            "description": ""
+        },
+        "Reverse Lashing": {
+            "name": "Atadura Inversa",
+            "description": ""
+        },
+        "Ashspren Bond": {
+            "name": "Vínculo con Cenizaspren",
+            "description": ""
+        },
+        "Cultivationspren Bond": {
+            "name": "Vínculo con Cultivationspren",
+            "description": ""
+        },
+        "Speak the Second Ideal": {
+            "name": "Pronunciar el Segundo Ideal",
+            "description": ""
+        },
+        "Second Ideal (Edgedancer)": {
+            "name": "Segundo Ideal (Bailarín del Filo)",
+            "description": ""
+        },
+        "First Ideal (Windrunner)": {
+            "name": "Primer Ideal (Corredor del Viento)",
+            "description": ""
+        },
+        "First Ideal (Truthwatcher)": {
+            "name": "Primer Ideal (Observador de Verdad)",
+            "description": ""
+        },
+        "Skybreaker (Nale)": {
+            "name": "Rompedor de Cielo (Nale)",
+            "description": ""
+        },
+        "Skybreaker": {
+            "name": "Rompedor de Cielo",
+            "description": ""
+        },
+        "Truthwatcher (Enlightened)": {
+            "name": "Observador de Verdad (Iluminado)",
+            "description": ""
+        },
+        "Cohesive Teamwork": {
+            "name": "Trabajo en Equipo Cohesivo",
+            "description": ""
+        },
+        "Second Ideal (Stoneward)": {
+            "name": "Segundo Ideal (Guardián de Piedra)",
+            "description": ""
+        },
+        "First Ideal (Lightweaver)": {
+            "name": "Primer Ideal (Tejedor de Luz)",
+            "description": ""
+        },
+        "Third Ideal (Dustbringer)": {
+            "name": "Tercer Ideal (Destructor de Polvo)",
+            "description": ""
+        },
+        "Third Ideal (Truthwatcher)": {
+            "name": "Tercer Ideal (Observador de Verdad)",
+            "description": ""
+        },
+        "Second Ideal (Windrunner)": {
+            "name": "Segundo Ideal (Corredor del Viento)",
+            "description": ""
+        },
+        "Third Ideal (Stoneward)": {
+            "name": "Tercer Ideal (Guardián de Piedra)",
+            "description": ""
+        },
+        "Elsecaller Talents": {
+            "name": "Talentos de Llamador Ajeno",
+            "description": ""
+        },
+        "Wound Regeneration": {
+            "name": "Regeneración de Heridas",
+            "description": ""
+        },
+        "First Ideal (Skybreaker)": {
+            "name": "Primer Ideal (Rompedor de Cielo)",
+            "description": ""
+        },
+        "Mistspren Bond": {
+            "name": "Vínculo con Nieblaspren",
+            "description": ""
+        },
+        "First Ideal (Nale Skybreaker)": {
+            "name": "Primer Ideal (Rompedor de Cielo de Nale)",
+            "description": ""
+        },
+        "Second Ideal (Willshaper)": {
+            "name": "Segundo Ideal (Forjador de Voluntad)",
+            "description": ""
+        },
+        "Take Squire (Edgedancer)": {
+            "name": "Tomar Escudero (Bailarín del Filo)",
+            "description": ""
+        },
+        "Fourth Ideal (Stoneward)": {
+            "name": "Cuarto Ideal (Guardián de Piedra)",
+            "description": ""
+        },
+        "Physical Illusion": {
+            "name": "Ilusión Física",
+            "description": ""
+        },
+        "First Ideal (Stoneward)": {
+            "name": "Primer Ideal (Guardián de Piedra)",
+            "description": ""
+        },
+        "Peakspren Bond": {
+            "name": "Vínculo con Picospren",
+            "description": ""
+        },
+        "Truthwatcher": {
+            "name": "Observador de Verdad",
+            "description": ""
+        },
+        "Stoneward": {
+            "name": "Guardián de Piedra",
+            "description": ""
+        },
+        "Third Ideal (Lightweaver)": {
+            "name": "Tercer Ideal (Tejedor de Luz)",
+            "description": ""
+        },
+        "Third Ideal (Elsecaller)": {
+            "name": "Tercer Ideal (Llamador Ajeno)",
+            "description": ""
+        },
+        "Inkspren Bond": {
+            "name": "Vínculo con Tintaspren",
+            "description": ""
+        },
+        "Vision Void": {
+            "name": "Visión del Vacío",
+            "description": ""
+        },
+        "Lightweaver Talents": {
+            "name": "Talentos de Tejedor de Luz",
+            "description": ""
+        },
+        "First Ideal (Willshaper)": {
+            "name": "Primer Ideal (Forjador de Voluntad)",
+            "description": ""
+        },
+        "Take Squire (Skybreaker)": {
+            "name": "Tomar Escudero (Rompedor de Cielo)",
+            "description": ""
+        },
+        "Take Squire (Truthwatcher)": {
+            "name": "Tomar Escudero (Observador de Verdad)",
+            "description": ""
+        },
+        "Fourth Ideal (Truthwatcher)": {
+            "name": "Cuarto Ideal (Observador de Verdad)",
+            "description": ""
+        },
+        "Skybreaker (Nale) Talents": {
+            "name": "Talentos de Rompedor de Cielo (Nale)",
+            "description": ""
+        },
+        "Alter Fortune": {
+            "name": "Alterar la Fortuna",
+            "description": ""
+        },
+        "Dustbringer Talents (Canon)": {
+            "name": "Talentos de Destructor de Polvo (Canon)",
+            "description": ""
+        },
+        "Spiritual Healing": {
+            "name": "Sanación Espiritual",
+            "description": ""
+        },
+        "Edgedancer Talents": {
+            "name": "Talentos de Bailarín del Filo",
+            "description": ""
+        },
+        "Windrunner Talents": {
+            "name": "Talentos de Corredor del Viento",
+            "description": ""
+        },
+        "Elsecaller's Perspicacity": {
+            "name": "Perspicacia del Llamador Ajeno",
+            "description": ""
+        },
+        "Willshaper Talents": {
+            "name": "Talentos de Forjador de Voluntad",
+            "description": ""
+        },
+        "Windrunner": {
+            "name": "Corredor del Viento",
+            "description": ""
+        },
+        "Take Squire (Windrunner)": {
+            "name": "Tomar Escudero (Corredor del Viento)",
+            "description": ""
+        },
+        "First Ideal (Edgedancer)": {
+            "name": "Primer Ideal (Bailarín del Filo)",
+            "description": ""
+        },
+        "Lightspren Bond": {
+            "name": "Vínculo con Luzspren",
+            "description": ""
+        },
+        "Third Ideal (Windrunner)": {
+            "name": "Tercer Ideal (Corredor del Viento)",
+            "description": ""
+        },
+        "Take Squire (Dustbringer)": {
+            "name": "Tomar Escudero (Destructor de Polvo)",
+            "description": ""
+        },
+        "Second Ideal (Lightweaver)": {
+            "name": "Segundo Ideal (Tejedor de Luz)",
+            "description": ""
+        },
+        "Future Sight": {
+            "name": "Visión del Futuro",
+            "description": ""
+        },
+        "Second Ideal (Canon Dustbringer)": {
+            "name": "Segundo Ideal (Destructor de Polvo Canon)",
+            "description": ""
+        },
+        "Take Squire (Willshaper)": {
+            "name": "Tomar Escudero (Forjador de Voluntad)",
+            "description": ""
+        },
+        "First Ideal (Elsecaller)": {
+            "name": "Primer Ideal (Llamador Ajeno)",
+            "description": ""
+        },
+        "Take Squire (Lightweaver)": {
+            "name": "Tomar Escudero (Tejedor de Luz)",
+            "description": ""
+        },
+        "Third Ideal (Edgedancer)": {
+            "name": "Tercer Ideal (Bailarín del Filo)",
+            "description": ""
+        },
+        "Enlightened Talents": {
+            "name": "Talentos Iluminados",
+            "description": ""
+        },
+        "Fourth Ideal (Willshaper)": {
+            "name": "Cuarto Ideal (Forjador de Voluntad)",
+            "description": ""
+        },
+        "Fourth Ideal (Edgedancer)": {
+            "name": "Cuarto Ideal (Bailarín del Filo)",
+            "description": ""
+        },
+        "Skybreaker Talents": {
+            "name": "Talentos de Rompedor de Cielo",
+            "description": ""
+        },
+        "Take Squire (Elsecaller)": {
+            "name": "Tomar Escudero (Llamador Ajeno)",
+            "description": ""
+        },
+        "Searing Dust Storm": {
+            "name": "Tormenta de Polvo Abrasador",
+            "description": ""
+        },
+        "Third Ideal (Willshaper)": {
+            "name": "Tercer Ideal (Forjador de Voluntad)",
+            "description": ""
+        },
+        "Fourth Ideal (Elsecaller)": {
+            "name": "Cuarto Ideal (Llamador Ajeno)",
+            "description": ""
+        },
+        "Second Ideal (Truthwatcher)": {
+            "name": "Segundo Ideal (Observador de Verdad)",
+            "description": ""
+        },
+        "Stoneward Talents": {
+            "name": "Talentos de Guardián de Piedra",
+            "description": ""
+        },
+        "Glimpse The Future": {
+            "name": "Vislumbrar el Futuro",
+            "description": ""
+        },
+        "Truthwatcher (Enlightened) Talents": {
+            "name": "Talentos de Observador de Verdad (Iluminado)",
+            "description": ""
+        },
+        "Willshaper": {
+            "name": "Forjador de Voluntad",
+            "description": ""
+        },
+        "Edgedancer": {
+            "name": "Bailarín del Filo",
+            "description": ""
+        },
+        "Second Ideal (Dustbringer)": {
+            "name": "Segundo Ideal (Destructor de Polvo)",
+            "description": ""
+        }
+    }
+}

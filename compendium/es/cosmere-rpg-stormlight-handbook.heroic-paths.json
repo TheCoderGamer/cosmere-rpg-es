@@ -1,0 +1,665 @@
+{
+    "label": "Caminos Heroicos",
+    "entries": {
+        "Erudition": {
+            "name": "Erudición",
+            "description": ""
+        },
+        "Contingency": {
+            "name": "Contingencia",
+            "description": ""
+        },
+        "Track": {
+            "name": "Rastrear",
+            "description": ""
+        },
+        "Authority": {
+            "name": "Autoridad",
+            "description": ""
+        },
+        "Cover Story": {
+            "name": "Tapadera",
+            "description": ""
+        },
+        "Spy": {
+            "name": "Espía",
+            "description": ""
+        },
+        "Mighty": {
+            "name": "Poderoso",
+            "description": ""
+        },
+        "Resilient Hero": {
+            "name": "Héroe Resiliente",
+            "description": ""
+        },
+        "Pack Hunting": {
+            "name": "Caza en Manada",
+            "description": ""
+        },
+        "Impaling Trap": {
+            "name": "Trampa Empaladora",
+            "description": ""
+        },
+        "Risky Behavior": {
+            "name": "Comportamiento Arriesgado",
+            "description": ""
+        },
+        "Faithful": {
+            "name": "Fiel",
+            "description": ""
+        },
+        "Composed": {
+            "name": "Sereno",
+            "description": ""
+        },
+        "Seek Quarry": {
+            "name": "Buscar Presa",
+            "description": ""
+        },
+        "Steadfast Challenge": {
+            "name": "Desafío Inquebrantable",
+            "description": ""
+        },
+        "Fatal Thrust": {
+            "name": "Estocada Fatal",
+            "description": ""
+        },
+        "Resuscitation": {
+            "name": "Resucitación",
+            "description": ""
+        },
+        "Hardy": {
+            "name": "Resistente",
+            "description": ""
+        },
+        "Sage Counsel": {
+            "name": "Consejo Sabio",
+            "description": ""
+        },
+        "Agent Talents": {
+            "name": "Talentos de Agente",
+            "description": ""
+        },
+        "Combat Coordination": {
+            "name": "Coordinación en Combate",
+            "description": ""
+        },
+        "Inventive Design": {
+            "name": "Diseño Inventivo",
+            "description": ""
+        },
+        "Practiced Kata": {
+            "name": "Kata Practicado",
+            "description": ""
+        },
+        "Vigilant Stance": {
+            "name": "Postura Vigilante",
+            "description": ""
+        },
+        "Politico": {
+            "name": "Político",
+            "description": ""
+        },
+        "Experimental Tinkering": {
+            "name": "Experimentación Mecánica",
+            "description": ""
+        },
+        "Flamestance": {
+            "name": "Postura de Llama",
+            "description": ""
+        },
+        "Tagging Shot": {
+            "name": "Disparo de Marcaje",
+            "description": ""
+        },
+        "Sound Advice": {
+            "name": "Consejo Acertado",
+            "description": ""
+        },
+        "Field Medicine": {
+            "name": "Medicina de Campo",
+            "description": ""
+        },
+        "Relentless March": {
+            "name": "Marcha Implacable",
+            "description": ""
+        },
+        "Hunter Talents": {
+            "name": "Talentos de Cazador",
+            "description": ""
+        },
+        "Sidestep": {
+            "name": "Esquivar",
+            "description": ""
+        },
+        "Entangling Trap": {
+            "name": "Trampa Enredadora",
+            "description": ""
+        },
+        "Surgeon": {
+            "name": "Cirujano",
+            "description": ""
+        },
+        "Imposing Posture": {
+            "name": "Postura Imponente",
+            "description": ""
+        },
+        "Guiding Oration": {
+            "name": "Oración Guía",
+            "description": ""
+        },
+        "Cautious Advance": {
+            "name": "Avance Cauteloso",
+            "description": ""
+        },
+        "Customary Garb": {
+            "name": "Vestimenta Habitual",
+            "description": ""
+        },
+        "Get 'Em Talking": {
+            "name": "Hazlos Hablar",
+            "description": ""
+        },
+        "Scholar Talents": {
+            "name": "Talentos de Erudito",
+            "description": ""
+        },
+        "Hunter": {
+            "name": "Cazador",
+            "description": ""
+        },
+        "Devoted Presence": {
+            "name": "Presencia Devota",
+            "description": ""
+        },
+        "Close the Case": {
+            "name": "Cerrar el Caso",
+            "description": ""
+        },
+        "Trickster's Hand": {
+            "name": "Mano del Embaucador",
+            "description": ""
+        },
+        "Practiced Oratory": {
+            "name": "Oratoria Practicada",
+            "description": ""
+        },
+        "Synchronized Assault": {
+            "name": "Asalto Sincronizado",
+            "description": ""
+        },
+        "Defensive Position": {
+            "name": "Posición Defensiva",
+            "description": ""
+        },
+        "Ongoing Care": {
+            "name": "Cuidado Continuo",
+            "description": ""
+        },
+        "Grand Deception": {
+            "name": "Gran Engaño",
+            "description": ""
+        },
+        "Unrelenting Salvo": {
+            "name": "Andanada Implacable",
+            "description": ""
+        },
+        "Keen Insight": {
+            "name": "Perspicacia Aguda",
+            "description": ""
+        },
+        "High Society Contacts": {
+            "name": "Contactos de Alta Sociedad",
+            "description": ""
+        },
+        "Mind and Body": {
+            "name": "Mente y Cuerpo",
+            "description": ""
+        },
+        "Peaceful Solution": {
+            "name": "Solución Pacífica",
+            "description": ""
+        },
+        "Wary": {
+            "name": "Precavido",
+            "description": ""
+        },
+        "Archer": {
+            "name": "Arquero",
+            "description": ""
+        },
+        "Devastating Blow": {
+            "name": "Golpe Devastador",
+            "description": ""
+        },
+        "Cold Eyes": {
+            "name": "Ojos Fríos",
+            "description": ""
+        },
+        "Subtle Takedown": {
+            "name": "Derribo Sutil",
+            "description": ""
+        },
+        "Thief": {
+            "name": "Ladrón",
+            "description": ""
+        },
+        "Protective Bond": {
+            "name": "Vínculo Protector",
+            "description": ""
+        },
+        "Formation Drills": {
+            "name": "Ejercicios de Formación",
+            "description": ""
+        },
+        "Feinting Strike": {
+            "name": "Golpe de Finta",
+            "description": ""
+        },
+        "Diplomat": {
+            "name": "Diplomático",
+            "description": ""
+        },
+        "Collected": {
+            "name": "Calmado",
+            "description": ""
+        },
+        "Tracker": {
+            "name": "Rastreador",
+            "description": ""
+        },
+        "Sharp Eye": {
+            "name": "Ojo Agudo",
+            "description": ""
+        },
+        "Envoy Talents": {
+            "name": "Talentos de Enviado",
+            "description": ""
+        },
+        "Combat Training": {
+            "name": "Entrenamiento en Combate",
+            "description": ""
+        },
+        "Calm Appeal": {
+            "name": "Apelación Calmada",
+            "description": ""
+        },
+        "Resolute Stand": {
+            "name": "Postura Resuelta",
+            "description": ""
+        },
+        "Swift Strikes": {
+            "name": "Golpes Veloces",
+            "description": ""
+        },
+        "Vinestance": {
+            "name": "Postura de Vid",
+            "description": ""
+        },
+        "Baleful": {
+            "name": "Siniestro",
+            "description": ""
+        },
+        "Anatomical Insight": {
+            "name": "Conocimiento Anatómico",
+            "description": ""
+        },
+        "Watchful Eye": {
+            "name": "Ojo Vigilante",
+            "description": ""
+        },
+        "Know Your Moment": {
+            "name": "Conoce tu Momento",
+            "description": ""
+        },
+        "Cheap Shot": {
+            "name": "Golpe Bajo",
+            "description": ""
+        },
+        "Deadly Trap": {
+            "name": "Trampa Mortal",
+            "description": ""
+        },
+        "Quick Analysis": {
+            "name": "Análisis Rápido",
+            "description": ""
+        },
+        "Assassin": {
+            "name": "Asesino",
+            "description": ""
+        },
+        "Deep Study": {
+            "name": "Estudio Profundo",
+            "description": ""
+        },
+        "Opportunist": {
+            "name": "Oportunista",
+            "description": ""
+        },
+        "Decisive Command": {
+            "name": "Mando Decisivo",
+            "description": ""
+        },
+        "Signature Weapon": {
+            "name": "Arma Característica",
+            "description": ""
+        },
+        "Instill Confidence": {
+            "name": "Infundir Confianza",
+            "description": ""
+        },
+        "Sure Outcome": {
+            "name": "Resultado Seguro",
+            "description": ""
+        },
+        "Strategize": {
+            "name": "Estrategizar",
+            "description": ""
+        },
+        "Officer": {
+            "name": "Oficial",
+            "description": ""
+        },
+        "Deep Contemplation": {
+            "name": "Contemplación Profunda",
+            "description": ""
+        },
+        "Demonstrative Command": {
+            "name": "Mando Demostrativo",
+            "description": ""
+        },
+        "Warrior Talents": {
+            "name": "Talentos de Guerrero",
+            "description": ""
+        },
+        "Exploit Weakness": {
+            "name": "Explotar Debilidad",
+            "description": ""
+        },
+        "Meteoric Leap": {
+            "name": "Salto Meteórico",
+            "description": ""
+        },
+        "Wit's End": {
+            "name": "Al Límite del Ingenio",
+            "description": ""
+        },
+        "Lessons in Patience": {
+            "name": "Lecciones de Paciencia",
+            "description": ""
+        },
+        "Emotional Intelligence": {
+            "name": "Inteligencia Emocional",
+            "description": ""
+        },
+        "End Stance": {
+            "name": "Postura Final",
+            "description": ""
+        },
+        "Galvanize": {
+            "name": "Galvanizar",
+            "description": ""
+        },
+        "Surefooted": {
+            "name": "Paso Firme",
+            "description": ""
+        },
+        "Envoy": {
+            "name": "Enviado",
+            "description": ""
+        },
+        "Well Dressed": {
+            "name": "Bien Vestido",
+            "description": ""
+        },
+        "Withering Retort": {
+            "name": "Réplica Devastadora",
+            "description": ""
+        },
+        "Double Down": {
+            "name": "Doblar la Apuesta",
+            "description": ""
+        },
+        "Foresight": {
+            "name": "Previsión",
+            "description": ""
+        },
+        "Leader Talents": {
+            "name": "Talentos de Líder",
+            "description": ""
+        },
+        "Stonestance": {
+            "name": "Postura de Piedra",
+            "description": ""
+        },
+        "Stalwart Presence": {
+            "name": "Presencia Incondicional",
+            "description": ""
+        },
+        "Turning Point": {
+            "name": "Punto de Inflexión",
+            "description": ""
+        },
+        "Fine Handiwork": {
+            "name": "Trabajo Fino",
+            "description": ""
+        },
+        "Backstep": {
+            "name": "Paso Atrás",
+            "description": ""
+        },
+        "Practical Demonstration": {
+            "name": "Demostración Práctica",
+            "description": ""
+        },
+        "Duelist": {
+            "name": "Duelista",
+            "description": ""
+        },
+        "Confident Command": {
+            "name": "Mando Confiado",
+            "description": ""
+        },
+        "Set at Odds": {
+            "name": "Sembrar Discordia",
+            "description": ""
+        },
+        "Mentor": {
+            "name": "Mentor",
+            "description": ""
+        },
+        "Applied Motivation": {
+            "name": "Motivación Aplicada",
+            "description": ""
+        },
+        "Warrior": {
+            "name": "Guerrero",
+            "description": ""
+        },
+        "Through the Fray": {
+            "name": "A Través de la Refriega",
+            "description": ""
+        },
+        "Rousing Presence": {
+            "name": "Presencia Estimulante",
+            "description": ""
+        },
+        "Shattering Blow": {
+            "name": "Golpe Devastador",
+            "description": ""
+        },
+        "Plausible Excuse": {
+            "name": "Excusa Plausible",
+            "description": ""
+        },
+        "Well-Supplied": {
+            "name": "Bien Abastecido",
+            "description": ""
+        },
+        "Rallying Shout": {
+            "name": "Grito de Reagrupamiento",
+            "description": ""
+        },
+        "Feral Connection": {
+            "name": "Conexión Salvaje",
+            "description": ""
+        },
+        "Shadow Step": {
+            "name": "Paso en las Sombras",
+            "description": ""
+        },
+        "Scholar": {
+            "name": "Erudito",
+            "description": ""
+        },
+        "Prized Acquisition": {
+            "name": "Adquisición Preciada",
+            "description": ""
+        },
+        "Startling Blow": {
+            "name": "Golpe Sorpresivo",
+            "description": ""
+        },
+        "Soldier": {
+            "name": "Soldado",
+            "description": ""
+        },
+        "Champion": {
+            "name": "Campeón",
+            "description": ""
+        },
+        "Experienced Trapper": {
+            "name": "Trampero Experimentado",
+            "description": ""
+        },
+        "Cutthroat Tactics": {
+            "name": "Tácticas Despiadadas",
+            "description": ""
+        },
+        "Shadowing": {
+            "name": "Seguimiento Sigiloso",
+            "description": ""
+        },
+        "Overcharge": {
+            "name": "Sobrecarga",
+            "description": ""
+        },
+        "Agent": {
+            "name": "Agente",
+            "description": ""
+        },
+        "Artifabrian": {
+            "name": "Artifabriano",
+            "description": ""
+        },
+        "Swift Healer": {
+            "name": "Sanador Veloz",
+            "description": ""
+        },
+        "Applied Medicine": {
+            "name": "Medicina Aplicada",
+            "description": ""
+        },
+        "Strategist": {
+            "name": "Estratega",
+            "description": ""
+        },
+        "Ironstance": {
+            "name": "Postura de Hierro",
+            "description": ""
+        },
+        "Underworld Contacts": {
+            "name": "Contactos del Hampa",
+            "description": ""
+        },
+        "Leader": {
+            "name": "Líder",
+            "description": ""
+        },
+        "Fast Talker": {
+            "name": "Parlanchín",
+            "description": ""
+        },
+        "Killing Edge": {
+            "name": "Filo Letal",
+            "description": ""
+        },
+        "Shardbearer": {
+            "name": "Portador de Esquirla",
+            "description": ""
+        },
+        "Efficient Engineer": {
+            "name": "Ingeniero Eficiente",
+            "description": ""
+        },
+        "Windstance": {
+            "name": "Postura del Viento",
+            "description": ""
+        },
+        "Gather Evidence": {
+            "name": "Reunir Evidencias",
+            "description": ""
+        },
+        "Overwhelm with Details": {
+            "name": "Abrumar con Detalles",
+            "description": ""
+        },
+        "Investigator": {
+            "name": "Investigador",
+            "description": ""
+        },
+        "Shrewd Command": {
+            "name": "Mando Astuto",
+            "description": ""
+        },
+        "Steady Aim": {
+            "name": "Puntería Firme",
+            "description": ""
+        },
+        "Inspired Zeal": {
+            "name": "Celo Inspirado",
+            "description": ""
+        },
+        "Bloodstance": {
+            "name": "Postura de Sangre",
+            "description": ""
+        },
+        "Animal Bond": {
+            "name": "Vínculo Animal",
+            "description": ""
+        },
+        "Valiant Intervention": {
+            "name": "Intervención Valiente",
+            "description": ""
+        },
+        "Hunter's Edge": {
+            "name": "Ventaja del Cazador",
+            "description": ""
+        },
+        "Precise Parry": {
+            "name": "Parada Precisa",
+            "description": ""
+        },
+        "Rumormonger": {
+            "name": "Rumoreador",
+            "description": ""
+        },
+        "Mercurial Facade": {
+            "name": "Fachada Mercurial",
+            "description": ""
+        },
+        "Shard Training": {
+            "name": "Entrenamiento con Esquirla",
+            "description": ""
+        },
+        "Sleuth's Instincts": {
+            "name": "Instintos de Detective",
+            "description": ""
+        },
+        "Tactical Ploy": {
+            "name": "Maniobra Táctica",
+            "description": ""
+        }
+    }
+}

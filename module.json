@@ -1,0 +1,30 @@
+{
+    "id": "cosmere-rpg-babel-es",
+    "title": "Cosmere RPG - Español",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12"
+    },
+    "scripts": [
+        "scripts/setup.js"
+    ],
+    "languages": [
+        {
+            "lang": "es",
+            "name": "Spanish",
+            "path": "lang/es.json"
+        }
+    ],
+    "relationships": {
+        "requires": [
+            { "id": "babele" }
+        ]
+    },
+    "flags": {
+        "babele": {
+            "module": "cosmere-rpg-babel-es",
+            "stemmer": "default",
+            "folder": "compendium/es"
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "label": "Ascendencias",
+    "entries": {
+        "Singer": {
+            "name": "Cantor",
+            "description": ""
+        },
+        "Forms of Mystery": {
+            "name": "Formas del Misterio",
+            "description": ""
+        },
+        "Forms of Destruction": {
+            "name": "Formas de la Destrucción",
+            "description": ""
+        },
+        "Forms of Expansion": {
+            "name": "Formas de la Expansión",
+            "description": ""
+        },
+        "Change Form": {
+            "name": "Cambiar Forma",
+            "description": ""
+        },
+        "Forms of Wisdom": {
+            "name": "Formas de la Sabiduría",
+            "description": ""
+        },
+        "Forms of Finesse": {
+            "name": "Formas de la Destreza",
+            "description": ""
+        },
+        "Singer Talents": {
+            "name": "Talentos de Cantor",
+            "description": ""
+        },
+        "Forms of Resolve": {
+            "name": "Formas de la Determinación",
+            "description": ""
+        },
+        "Ambitious Mind": {
+            "name": "Mente Ambiciosa",
+            "description": ""
+        },
+        "Human": {
+            "name": "Humano",
+            "description": ""
+        },
+        "Intervening Premonitions": {
+            "name": "Premoniciones Intervinientes",
+            "description": ""
+        },
+        "Mateform": {
+            "name": "Forma Carnal",
+            "description": ""
+        },
+        "Dullform": {
+            "name": "Forma Gris",
+            "description": ""
+        },
+        "Artform": {
+            "name": "Forma Arte",
+            "description": ""
+        },
+        "Nimbleform": {
+            "name": "Forma Diestra",
+            "description": ""
+        },
+        "Workform": {
+            "name": "Forma Trabajo",
+            "description": ""
+        },
+        "Warform": {
+            "name": "Forma Guerrera",
+            "description": ""
+        },
+        "Scholarform": {
+            "name": "Forma Sabia",
+            "description": ""
+        },
+        "Mediationform": {
+            "name": "Forma de Mediacion",
+            "description": ""
+        },
+        "Unleash Lightning": {
+            "name": "Desatar el Rayo",
+            "description": ""
+        },
+        "Direform": {
+            "name": "Forma Terrible",
+            "description": ""
+        },
+        "Stormform": {
+            "name": "Forma Tormenta",
+            "description": ""
+        },
+        "Relayform": {
+            "name": "Forma Enlace",
+            "description": ""
+        },
+        "Envoyform": {
+            "name": "Forma Embajadora",
+            "description": ""
+        },
+        "Nightform": {
+            "name": "Forma Noche",
+            "description": ""
+        },
+        "Decayform": {
+            "name": "Forma en Decadencia",
+            "description": ""
+        },
+        "Decaying Touch": {
+            "name": "Toque Decadente",
+            "description": ""
+        },
+        "Sporadic Premonitions": {
+            "name": "Premoniciones Esporádicas",
+            "description": ""
+        }
+    }
+}
