@@ -42,7 +42,7 @@
             "description": ""
         },
         "Unarmed Strike": {
-            "name": "Golpe Desarmado",
+            "name": "Guantazo",
             "description": ""
         },
         "Grapple": {
@@ -54,7 +54,7 @@
             "description": ""
         },
         "Brace": {
-            "name": "Afianzarse",
+            "name": "Aferrar",
             "description": ""
         },
         "Aid": {
@@ -66,7 +66,7 @@
             "description": ""
         },
         "Reactive Strike": {
-            "name": "Golpe Reactivo",
+            "name": "Golpe de reaccion",
             "description": ""
         },
         "Move": {
@@ -78,7 +78,7 @@
             "description": ""
         },
         "Banter": {
-            "name": "Intercambiar Pullas",
+            "name": "Insultar",
             "description": ""
         },
         "Interact": {
@@ -86,7 +86,7 @@
             "description": ""
         },
         "Breathe Stormlight": {
-            "name": "Respirar Tormenta de Luz",
+            "name": "Absorver luz tormentosa",
             "description": ""
         },
         "Shove": {
@@ -94,7 +94,7 @@
             "description": ""
         },
         "Disengage": {
-            "name": "Desengancharse",
+            "name": "Retirada",
             "description": ""
         }
     }
