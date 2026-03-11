@@ -6,11 +6,11 @@
             "description": ""
         },
         "Kharbranthian": {
-            "name": "Kharbrantiano",
+            "name": "Kharbranthiano",
             "description": ""
         },
         "Azish": {
-            "name": "Azish",
+            "name": "Azishiano",
             "description": ""
         },
         "Unkalaki": {
@@ -18,7 +18,7 @@
             "description": ""
         },
         "Wayfarer": {
-            "name": "Viajero",
+            "name": "Peregrino",
             "description": ""
         },
         "Veden": {
@@ -34,7 +34,7 @@
             "description": ""
         },
         "Natan": {
-            "name": "Natan",
+            "name": "Natano",
             "description": ""
         },
         "Herdazian": {
@@ -42,7 +42,7 @@
             "description": ""
         },
         "Alethi": {
-            "name": "Alethi",
+            "name": "Alezi",
             "description": ""
         },
         "Reshi": {
@@ -50,8 +50,9 @@
             "description": ""
         },
         "Thaylen": {
-            "name": "Thaylen",
+            "name": "Thayleño",
             "description": ""
         }
     }
 }
+
