@@ -1,0 +1,26 @@
+{
+    "label": "Manual",
+    "entries": {
+        "Ch. 8: Goals and Rewards": { "name": "Cap. 8: Objetivos y Recompensas" },
+        "Ch. 12: Endeavors": { "name": "Cap. 12: Empresas" },
+        "The Next Step": { "name": "El Siguiente Paso" },
+        "Appendix 1: Animal Companions": { "name": "Apéndice 1: Compañeros Animales" },
+        "Ch. 2: Origins": { "name": "Cap. 2: Orígenes" },
+        "Ch. 9: Adventuring": { "name": "Cap. 9: Aventuras" },
+        "Copyright": { "name": "Derechos de Autor" },
+        "Ch. 1: Character Creation": { "name": "Cap. 1: Creación de Personaje" },
+        "Ch. 6: Surges": { "name": "Cap. 6: Surgimientos" },
+        "Ch. 13: Gamemastering": { "name": "Cap. 13: Dirección de Juego" },
+        "Ch. 3: Character Statistics": { "name": "Cap. 3: Estadísticas del Personaje" },
+        "Acknowledgments": { "name": "Agradecimientos" },
+        "Ch. 10: Combat": { "name": "Cap. 10: Combate" },
+        "Introduction": { "name": "Introducción" },
+        "Appendix 3: Skill Trees": { "name": "Apéndice 3: Árboles de Habilidades" },
+        "Ch. 7: Items": { "name": "Cap. 7: Objetos" },
+        "Ch. 11: Conversations": { "name": "Cap. 11: Conversaciones" },
+        "Ch. 4: Heroic Paths": { "name": "Cap. 4: Caminos Heroicos" },
+        "Ch. 5: Radiant Paths": { "name": "Cap. 5: Caminos Radiantes" },
+        "Glossary and Index": { "name": "Glosario e Índice" },
+        "Appendix 2: Tables": { "name": "Apéndice 2: Tablas" }
+    }
+}
