@@ -1,0 +1,57 @@
+{
+    "label": "Culturas",
+    "entries": {
+        "Listener": {
+            "name": "Oyente",
+            "description": ""
+        },
+        "Kharbranthian": {
+            "name": "Kharbrantiano",
+            "description": ""
+        },
+        "Azish": {
+            "name": "Azish",
+            "description": ""
+        },
+        "Unkalaki": {
+            "name": "Unkalaki",
+            "description": ""
+        },
+        "Wayfarer": {
+            "name": "Viajero",
+            "description": ""
+        },
+        "Veden": {
+            "name": "Veden",
+            "description": ""
+        },
+        "Shin": {
+            "name": "Shin",
+            "description": ""
+        },
+        "Iriali": {
+            "name": "Iriali",
+            "description": ""
+        },
+        "Natan": {
+            "name": "Natan",
+            "description": ""
+        },
+        "Herdazian": {
+            "name": "Herdaziano",
+            "description": ""
+        },
+        "Alethi": {
+            "name": "Alethi",
+            "description": ""
+        },
+        "Reshi": {
+            "name": "Reshi",
+            "description": ""
+        },
+        "Thaylen": {
+            "name": "Thaylen",
+            "description": ""
+        }
+    }
+}
