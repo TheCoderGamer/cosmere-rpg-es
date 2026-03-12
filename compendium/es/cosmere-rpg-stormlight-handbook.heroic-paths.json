@@ -2,7 +2,7 @@
     "label": "Caminos Heroicos",
     "entries": {
         "Erudition": {
-            "name": "Erudición",
+            "name": "Erudito",
             "description": ""
         },
         "Contingency": {
@@ -38,7 +38,7 @@
             "description": ""
         },
         "Impaling Trap": {
-            "name": "Trampa Empaladora",
+            "name": "Trampa de Empalamiento",
             "description": ""
         },
         "Risky Behavior": {
@@ -50,7 +50,7 @@
             "description": ""
         },
         "Composed": {
-            "name": "Sereno",
+            "name": "Serenidad",
             "description": ""
         },
         "Seek Quarry": {
@@ -58,7 +58,7 @@
             "description": ""
         },
         "Steadfast Challenge": {
-            "name": "Desafío Inquebrantable",
+            "name": "Desafío Inalterable",
             "description": ""
         },
         "Fatal Thrust": {
@@ -70,7 +70,7 @@
             "description": ""
         },
         "Hardy": {
-            "name": "Resistente",
+            "name": "Robusto",
             "description": ""
         },
         "Sage Counsel": {
@@ -90,11 +90,11 @@
             "description": ""
         },
         "Practiced Kata": {
-            "name": "Kata Practicado",
+            "name": "Kata Entrenada",
             "description": ""
         },
         "Vigilant Stance": {
-            "name": "Postura Vigilante",
+            "name": "Posición Vigilante",
             "description": ""
         },
         "Politico": {
@@ -102,15 +102,15 @@
             "description": ""
         },
         "Experimental Tinkering": {
-            "name": "Experimentación Mecánica",
+            "name": "Trasteo Experimental",
             "description": ""
         },
         "Flamestance": {
-            "name": "Postura de Llama",
+            "name": "Posición de Fuego",
             "description": ""
         },
         "Tagging Shot": {
-            "name": "Disparo de Marcaje",
+            "name": "Disparo de Seguimiento",
             "description": ""
         },
         "Sound Advice": {
@@ -142,14 +142,15 @@
             "description": ""
         },
         "Imposing Posture": {
-            "name": "Postura Imponente",
+            "name": "Posición Formidable",
             "description": ""
         },
         "Guiding Oration": {
-            "name": "Oración Guía",
+            "name": "Alocución Orientadora",
             "description": ""
         },
-        "Cautious Advance": {
+        // seguir por aqui
+        "Cautious Advance": {                        
             "name": "Avance Cauteloso",
             "description": ""
         },
