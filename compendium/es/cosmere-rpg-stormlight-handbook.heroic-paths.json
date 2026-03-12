@@ -149,13 +149,12 @@
             "name": "Alocución Orientadora",
             "description": ""
         },
-        // seguir por aqui
         "Cautious Advance": {                        
             "name": "Avance Cauteloso",
             "description": ""
         },
         "Customary Garb": {
-            "name": "Vestimenta Habitual",
+            "name": "Vestimenta Tradicional",
             "description": ""
         },
         "Get 'Em Talking": {
@@ -179,11 +178,11 @@
             "description": ""
         },
         "Trickster's Hand": {
-            "name": "Mano del Embaucador",
+            "name": "Mano Embaucadora",
             "description": ""
         },
         "Practiced Oratory": {
-            "name": "Oratoria Practicada",
+            "name": "Oratoria Ensayada",
             "description": ""
         },
         "Synchronized Assault": {
@@ -195,7 +194,7 @@
             "description": ""
         },
         "Ongoing Care": {
-            "name": "Cuidado Continuo",
+            "name": "Cuidados Continuos",
             "description": ""
         },
         "Grand Deception": {
@@ -203,11 +202,11 @@
             "description": ""
         },
         "Unrelenting Salvo": {
-            "name": "Andanada Implacable",
+            "name": "Salva Implacable",
             "description": ""
         },
         "Keen Insight": {
-            "name": "Perspicacia Aguda",
+            "name": "Conocimientos Aplicados",
             "description": ""
         },
         "High Society Contacts": {
@@ -219,11 +218,11 @@
             "description": ""
         },
         "Peaceful Solution": {
-            "name": "Solución Pacífica",
+            "name": "Solución Sosegada",
             "description": ""
         },
         "Wary": {
-            "name": "Precavido",
+            "name": "Precaución",
             "description": ""
         },
         "Archer": {
@@ -235,7 +234,7 @@
             "description": ""
         },
         "Cold Eyes": {
-            "name": "Ojos Fríos",
+            "name": "Mirada Fría",
             "description": ""
         },
         "Subtle Takedown": {
@@ -255,7 +254,7 @@
             "description": ""
         },
         "Feinting Strike": {
-            "name": "Golpe de Finta",
+            "name": "Acometida con Finta",
             "description": ""
         },
         "Diplomat": {
@@ -263,7 +262,7 @@
             "description": ""
         },
         "Collected": {
-            "name": "Calmado",
+            "name": "Serenidad",
             "description": ""
         },
         "Tracker": {
@@ -283,13 +282,17 @@
             "description": ""
         },
         "Calm Appeal": {
-            "name": "Apelación Calmada",
+            "name": "Llamamiento a la Calmada",
             "description": ""
         },
         "Resolute Stand": {
             "name": "Postura Resuelta",
             "description": ""
         },
+
+        //seguir por aqui//
+
+        
         "Swift Strikes": {
             "name": "Golpes Veloces",
             "description": ""
