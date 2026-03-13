@@ -10,7 +10,7 @@
             "description": ""
         },
         "Realmic Step": {
-            "name": "Paso Realmático",
+            "name": "Paso entre reinos",
             "description": ""
         },
         "Abrasion": {
@@ -18,31 +18,31 @@
             "description": ""
         },
         "Stormlight Reclamation": {
-            "name": "Recuperación de Tormenta de Luz",
+            "name": "Reclamación de luz Tormentosa",
             "description": ""
         },
         "Cloth Mastery": {
-            "name": "Maestría Textil",
+            "name": "Maestría de Tejidos",
             "description": ""
         },
         "Clothsmith": {
-            "name": "Tejedor",
+            "name": "Urdidor",
             "description": ""
         },
         "Bloodcasting": {
-            "name": "Forjado de Sangre",
+            "name": "Moldeado de Sangre",
             "description": ""
         },
         "Distant Surgebinding": {
-            "name": "Surgvinculación a Distancia",
+            "name": "Potenciación distante",
             "description": ""
         },
         "Gravitational Slam": {
-            "name": "Golpe Gravitacional",
+            "name": "Impacto Gravitacional",
             "description": ""
         },
         "Elsegate": {
-            "name": "Puerta Ajena",
+            "name": "Puerta de lo Otro",
             "description": ""
         },
         "Gravitation Talents": {
@@ -50,7 +50,7 @@
             "description": ""
         },
         "Slippery Target": {
-            "name": "Objetivo Escurridizo",
+            "name": "Objetivo Resbaladizo",
             "description": ""
         },
         "Master of the Skies": {
@@ -58,7 +58,7 @@
             "description": ""
         },
         "Shared Transportation": {
-            "name": "Transporte Compartido",
+            "name": "Transportación Compartida",
             "description": ""
         },
         "Spiritual Illumination": {
@@ -74,7 +74,7 @@
             "description": ""
         },
         "True Stoneshaping": {
-            "name": "Modelado de Piedra Verdadero",
+            "name": "Escultora de Piedra Verdadero",
             "description": ""
         },
         "Painful Truth": {
@@ -102,7 +102,7 @@
             "description": ""
         },
         "Gout of Flame": {
-            "name": "Chorro de Llama",
+            "name": "Ráfaga de Llamas",
             "description": ""
         },
         "Overgrowth": {
@@ -118,7 +118,7 @@
             "description": ""
         },
         "Tunneling": {
-            "name": "Tunelado",
+            "name": "Excavar Túnel",
             "description": ""
         },
         "Through the Stone": {
@@ -126,7 +126,7 @@
             "description": ""
         },
         "Unbound Cohesion": {
-            "name": "Cohesión Desatada",
+            "name": "Cohesión Suelta",
             "description": ""
         },
         "Transformation Talents": {
@@ -142,11 +142,11 @@
             "description": ""
         },
         "Binding Strike": {
-            "name": "Golpe Vinculante",
+            "name": "Acometida Vinculante",
             "description": ""
         },
         "Living Soulcasting": {
-            "name": "Forjado de Almas Viviente",
+            "name": "Moldeado de Almas Viviente",
             "description": ""
         },
         "Cohesion": {
@@ -154,11 +154,11 @@
             "description": ""
         },
         "Soulcast Parry": {
-            "name": "Parada Forjada",
+            "name": "Parada Moldeadora de Almas",
             "description": ""
         },
         "Elsecalling": {
-            "name": "Llamada Ajena",
+            "name": "Nominar lo Otro",
             "description": ""
         },
         "Progression": {
@@ -166,7 +166,7 @@
             "description": ""
         },
         "Realmic Evasion": {
-            "name": "Evasión Realmática",
+            "name": "Evasión entre Reinos",
             "description": ""
         },
         "Cohesion Talents": {
@@ -174,23 +174,23 @@
             "description": ""
         },
         "Smooth Operator": {
-            "name": "Operador Fluido",
+            "name": "Patinaje Fluido",
             "description": ""
         },
         "Flamecasting": {
-            "name": "Forjado de Llama",
+            "name": "Moldeado de Llamas",
             "description": ""
         },
         "Lashing Shot": {
-            "name": "Disparo de Atadura",
+            "name": "Disparo con Enlace",
             "description": ""
         },
         "Cognitive Farsight": {
-            "name": "Visión Lejana Cognitiva",
+            "name": "Previsión Cognitiva",
             "description": ""
         },
         "Swift Regeneration": {
-            "name": "Regeneración Veloz",
+            "name": "Revitalización Rápida",
             "description": ""
         },
         "Gravitation": {
@@ -210,7 +210,7 @@
             "description": ""
         },
         "Multiple Lashings": {
-            "name": "Ataduras Múltiples",
+            "name": "Enlaces Múltiples",
             "description": ""
         },
         "Surface Tension": {
@@ -222,7 +222,7 @@
             "description": ""
         },
         "Injury Regrowth": {
-            "name": "Regeneración de Heridas",
+            "name": "Regeneración de Lesión",
             "description": ""
         },
         "Inescapable Spark": {
@@ -258,11 +258,11 @@
             "description": ""
         },
         "Realmwalker": {
-            "name": "Caminante Realmático",
+            "name": "Caminareinos",
             "description": ""
         },
         "Multiplicative Lightweaving": {
-            "name": "Tejido de Luz Multiplicativo",
+            "name": "Tejido de Luz Multiplicador",
             "description": ""
         },
         "Tension": {
@@ -270,7 +270,7 @@
             "description": ""
         },
         "Flowing Earth": {
-            "name": "Tierra Fluyente",
+            "name": "Tierra Fluida",
             "description": ""
         },
         "Division": {
@@ -282,11 +282,11 @@
             "description": ""
         },
         "Igniting Division": {
-            "name": "División Incendiaria",
+            "name": "División Inflamable",
             "description": ""
         },
         "Transportation Talents": {
-            "name": "Talentos de Transporte",
+            "name": "Talentos de Transportación",
             "description": ""
         },
         "Superior Bond": {
@@ -294,7 +294,7 @@
             "description": ""
         },
         "Spark Sending": {
-            "name": "Envío de Chispa",
+            "name": "Mandar Chispas",
             "description": ""
         },
         "Sinkhole": {
@@ -314,7 +314,7 @@
             "description": ""
         },
         "Memories of Stone": {
-            "name": "Memorias de Piedra",
+            "name": "Recuerdos de Piedra",
             "description": ""
         },
         "Group Flight": {
@@ -326,7 +326,7 @@
             "description": ""
         },
         "Soulcast Defense": {
-            "name": "Defensa Forjada",
+            "name": "Defensa Moldeadora de Almas",
             "description": ""
         },
         "Progression Talents": {
@@ -334,7 +334,7 @@
             "description": ""
         },
         "Distracting Illusion": {
-            "name": "Ilusión Distractora",
+            "name": "Ilusión Distractiva",
             "description": ""
         },
         "From the Brink": {
@@ -354,7 +354,7 @@
             "description": ""
         },
         "Transportation": {
-            "name": "Transporte",
+            "name": "Transportación",
             "description": ""
         },
         "Transformation": {
@@ -366,7 +366,7 @@
             "description": ""
         },
         "Expansive Transmuter": {
-            "name": "Transmutador Expansivo",
+            "name": "Transmutación Expansiva",
             "description": ""
         },
         "Cognitive Vision": {
@@ -374,7 +374,7 @@
             "description": ""
         },
         "Graceful Skating": {
-            "name": "Deslizamiento Grácil",
+            "name": "Patinaje Grácil",
             "description": ""
         },
         "Flying Ace": {
@@ -382,7 +382,7 @@
             "description": ""
         },
         "Bodily Decay": {
-            "name": "Decadencia Corporal",
+            "name": "Deterioro Corporal",
             "description": ""
         }
     }
